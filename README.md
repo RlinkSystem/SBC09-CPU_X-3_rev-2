@@ -25,3 +25,5 @@ So my setup is:
   * 74HCT138
   * <del>74HCT154</del> 74HCT138
 
+My testing setup:
+![PCB in case](https://github.com/RlinkSystem/SBC09-CPU_X-3_rev-2/blob/e1f1b1ddd3a8c246b288238bed58164f2a0f0caa/CPU_X-3_r2_box.jpeg)
